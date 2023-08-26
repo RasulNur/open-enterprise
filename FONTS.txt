@@ -1,0 +1,3 @@
+ novel mono - IBM Plex Mono
+proxima - roboto
+bely - gravitas
